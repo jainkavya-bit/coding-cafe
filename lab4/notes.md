@@ -4,3 +4,5 @@
 4. Nothing disappeared from the output. I didn't have the .venv/ folder in the git status output earlier. 
 5. .gitignore should be committed. This is because it has code that tells Git which files/folders to leave out of the repository.
 6. README.md moved from 'Untracked files' to 'changes to be committed'. In the three-places-model, this means the file was moved from the working directory to the staging area. 
+7. Git printed that the commit was created and showed how many files were changed. It said 5 files were changed.
+8. The first seven characters of the commit is 2706477. They are the short form of the commiit hash, which identifies the commit. 
